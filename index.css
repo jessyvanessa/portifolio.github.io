@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(228, 69, 69);
+    color: aquamarine;
+    padding-left: 5%; padding-top: 5%;
+    
+}
+
+a{
+color: aquamarine;
+text-decoration: none;
+}
+header img{
+    border-radius: 20%;
+    border: 5px solid aquamarine;
+}
+.center{
+    text-align: center;
+}
+footer img{
+    border-radius: 60%;
+    
+}
+.container{
+    padding: 0px  50px;
+}
+.text{
+    color: rgb(238, 229, 229);
+}
